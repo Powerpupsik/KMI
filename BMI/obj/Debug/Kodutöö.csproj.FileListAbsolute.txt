@@ -1,0 +1,14 @@
+C:\Users\Surramurra\Desktop\Kodutöö\Kodutöö\bin\Debug\Kodutöö.exe.config
+C:\Users\Surramurra\Desktop\Kodutöö\Kodutöö\bin\Debug\Kodutöö.exe
+C:\Users\Surramurra\Desktop\Kodutöö\Kodutöö\bin\Debug\Kodutöö.pdb
+C:\Users\Surramurra\Desktop\Kodutöö\Kodutöö\obj\Debug\Kodutöö.csprojAssemblyReference.cache
+C:\Users\Surramurra\Desktop\Kodutöö\Kodutöö\obj\Debug\Kodutöö.csproj.CoreCompileInputs.cache
+C:\Users\Surramurra\Desktop\Kodutöö\Kodutöö\obj\Debug\Kodutöö.exe
+C:\Users\Surramurra\Desktop\Kodutöö\Kodutöö\obj\Debug\Kodutöö.pdb
+C:\Users\Surramurra\Desktop\BMI\Kodutöö\bin\Debug\Kodutöö.exe.config
+C:\Users\Surramurra\Desktop\BMI\Kodutöö\bin\Debug\Kodutöö.exe
+C:\Users\Surramurra\Desktop\BMI\Kodutöö\bin\Debug\Kodutöö.pdb
+C:\Users\Surramurra\Desktop\BMI\Kodutöö\obj\Debug\Kodutöö.csprojAssemblyReference.cache
+C:\Users\Surramurra\Desktop\BMI\Kodutöö\obj\Debug\Kodutöö.csproj.CoreCompileInputs.cache
+C:\Users\Surramurra\Desktop\BMI\Kodutöö\obj\Debug\Kodutöö.exe
+C:\Users\Surramurra\Desktop\BMI\Kodutöö\obj\Debug\Kodutöö.pdb
